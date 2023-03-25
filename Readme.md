@@ -1,7 +1,7 @@
 # Restore AVR FUSES SMD ::: Revisión R1 :: Versión 1.10
 
-![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/pcb_front.png)
-![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
+![](https://github.com/trunksx64/PGM_AVR_FUSES_KICAD/blob/main/Images/pcb_front.png)
+![](https://github.com/trunksx64/PGM_AVR_FUSES_KICAD/blob/main/Images/front.png)
 
 ## Razón de Ser e Inspiración
 
