@@ -8,7 +8,7 @@
 Este escudo para Arduino UNO se diseñó teniendo en mente inicialmente una forma para restaurar los FUSES del Atmega328P que por error u olvido se programaban mal en esta placa.
 Haciendo inutilizables estos microcontroladores con programadores seriales como el AMTEL-ICE o MPLAB-SNAP, al inicio se diseñó como un simple restaurador, pero se vio la idea de dotarlo de más características como hacerlo un programador HIGH VOLTAJE, 
 por lo cual se incluyo la etapa de elevación de tensión para obtener 12~14VDC, esta hizo que los pines disponibles del Arduino no fueran suficientes, se incluyo un expansor MCP23S08, para la comunicación de los Datos de 8Bits y el resto para el control de la programación en paralelo.
-La idea a futuro es diseñar y crear una GUI multiplataforma para programas el Atmega328P y microcontroladores compatibles hacia abajo en número de pines.
+La idea a futuro es diseñar y crear una GUI multiplataforma para programar el Atmega328P y microcontroladores compatibles hacia abajo en número de pines.
 
 ## Características del Hardware
 
