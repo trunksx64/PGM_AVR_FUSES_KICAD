@@ -1,4 +1,4 @@
-# XTW2 Clone ::: Revisión R1 :: Versión 1.20
+# Restore AVR FUSES SMD ::: Revisión R1 :: Versión 1.10
 
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/pcb_front.png)
 ![](https://github.com/trunksx64/XTW_2_CLONE_KICAD/blob/main/Images/front.png)
@@ -17,7 +17,7 @@ La idea a futuro es diseñar y crear una GUI multiplataforma para programas el A
 	* Botones para Reset de la Placa UNO y Accion de programación.
 	* Dos LEDS de estado de Programación.
 	* Control de Alimentacion VCC y Elevador de Tensión para VPP.
-	* Resistencias de protección en lineas de control, para evitar daño si el Microcontrolador es puesta al revez.
+	* Resistencias de protección, para evitar daño si el Microcontrolador es puesto al revez.
 	* Diseño de Escudo (Shield) compatible con Arduino UNO R3.
 
 ## Características Específicas
